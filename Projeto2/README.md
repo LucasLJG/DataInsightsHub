@@ -10,12 +10,12 @@ Este projeto contém o código com o propósito de análise de dados de pinguins
 
 A ONG resgata pinguins que são levados pelas correntes marítimas para as praias do sul do país. No entanto, nem todos os pinguins possuem suas informações devidamente registradas, dificultando a análise da origem de cada um.
 
-
 ### Objetivo
 
 O objetivo deste projeto é desenvolver modelos de machine learning para prever a espécie de um pinguim com base em suas características físicas, como tamanho do bico, comprimento da nadadeira e massa corporal. Essa previsão permitirá a ONG:
 
-* **Melhorar a análise de dados:** com a espécie do pinguim conhecida, a ONG pode analisar melhor os dados coletados, como a origem dos pinguins e o impacto da atividade humana.
+* **Analisar melhor os dados:** com a espécie do pinguim conhecida, a ONG pode analisar melhor os dados coletados, como a origem dos pinguins e o impacto da atividade humana.
+* **Identificar tendências:** a ONG poderá identificar padrões na distribuição das espécies de pinguins,  auxiliando na tomada de decisões sobre as áreas de maior risco de encalhe e  na criação de estratégias de proteção.
 
 
 ### Modelos Desenvolvidos
