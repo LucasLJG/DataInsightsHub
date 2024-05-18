@@ -1,5 +1,5 @@
 
-## Projeto: pinguins_analysis.py
+## Projeto: DataInsightsHub
 
 ### Sobre o Projeto
 
