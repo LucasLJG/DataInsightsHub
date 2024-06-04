@@ -1,4 +1,4 @@
-O código fornecido executa uma análise de dados e modelagem preditiva para prever preços de casas usando um conjunto de dados do Kaggle sobre preços de casas em Teerã, Irã. Abaixo está uma análise detalhada do código, destacando as etapas principais, resultados e insights:
+O código fornecido em Notebook executa uma análise de dados e modelagem preditiva para prever preços de casas usando um conjunto de dados do Kaggle sobre preços de casas em Teerã, Irã. Abaixo está uma análise detalhada do código, destacando as etapas principais, resultados e insights:
 
 **1. Carregamento e Limpeza de Dados:**
 
@@ -66,8 +66,3 @@ O código fornecido executa uma análise de dados e modelagem preditiva para pre
 * Vários modelos de regressão são comparados e, com base nas métricas de avaliação, o melhor modelo para este problema específico pode ser selecionado.
 * As visualizações fornecem insights sobre as relações entre as variáveis e ajudam a comunicar os resultados de forma eficaz.
 
-**Recomendações:**
-
-* Explore técnicas de ajuste de hiperparâmetros para otimizar ainda mais os modelos e potencialmente melhorar a precisão preditiva.
-* Considere a experimentação com outros modelos de regressão ou técnicas de aprendizado de máquina para explorar abordagens alternativas.
-* Investigue mais os recursos e fatores que podem influenciar os preços das casas com base nos insights da análise exploratória de dados.
