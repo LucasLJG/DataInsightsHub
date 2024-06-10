@@ -1,6 +1,6 @@
 ### Sobre o Projeto
 
-Este projeto contém o código com o propósito de análise de dados de obesidade realizado por um estudante de ciência de dados utilizando um conjunto de dados do Kaggle.
+Este projeto contém o código com o propósito de análise de dados de obesidade utilizando um conjunto de dados do Kaggle.
 
 ### Descrição do Problema
 
