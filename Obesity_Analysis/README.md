@@ -41,4 +41,4 @@ Os modelos foram treinados e avaliados utilizando o conjunto de dados de obesida
 
 ### Ferramentas Utilizadas
 
-O projeto foi desenvolvido utilizando Python, juntamente com bibliotecas como Pandas, Matplotlib, Seaborn, Scikit-Learn, e NumPy para análise e modelagem de dados. A validação cruzada e as curvas de aprendizado foram utilizadas para garantir a robustez e a generalização dos modelos desenvolvidos.
+O projeto foi desenvolvido utilizando Python, juntamente com bibliotecas como Pandas, Matplotlib, Seaborn, Scikit-Learn, e NumPy para análise e modelagem de dados.
